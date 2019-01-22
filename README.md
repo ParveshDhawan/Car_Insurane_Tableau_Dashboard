@@ -12,3 +12,5 @@ Loss Ratio  =  SUM([Claim Amount])/SUM([Premium])
 Profit  =  SUM([Premium])-SUM([Claim Amount])
 
 Profit Per policy holder = (SUM([Premium])-SUM([Claim Amount]))/COUNT([Policy Number])
+
+![demo_dashboard](https://user-images.githubusercontent.com/37027008/51552981-d2f9ec00-1e97-11e9-8d6c-0ba25e5153d8.png)
